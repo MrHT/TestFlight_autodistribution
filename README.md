@@ -5,19 +5,18 @@
 还在一个个复制 TestFlight 邀请链接发给测试用户？这套系统帮你批量管理邀请链接、自动分配名额、统计发放情况。
 提供完整源码，部署在你自己的服务器上。
 
-<!--
-截图和 README.md 一起上传到仓库的 docs/screenshots/ 后取消这段注释。截图用测试数据，不要露出真实域名、邀请链接和卡密。
-
 ## 界面预览
 
-| 客户下载页（手机） | 下载链接管理 |
-| --- | --- |
-| ![下载页](docs/screenshots/download-page.png) | ![下载链接](docs/screenshots/download-links.png) |
-| **链接池** | **数据统计** |
-| ![链接池](docs/screenshots/link-pool.png) | ![统计](docs/screenshots/stats.png) |
-| **卡密管理** | **邮件收信** |
-| ![卡密](docs/screenshots/card-keys.png) | ![收信](docs/screenshots/mailbox.png) |
--->
+<table>
+  <tr>
+    <td align="center" width="35%"><b>客户下载页</b><br><img src="docs/screenshots/download-page.png" width="260"></td>
+    <td align="center"><b>下载链接</b><br><img src="docs/screenshots/download-links.png"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>应用管理</b><br><img src="docs/screenshots/apps.png"></td>
+    <td align="center"><b>卡密管理</b><br><img src="docs/screenshots/card-keys.png"></td>
+  </tr>
+</table>
 
 ## 功能
 
