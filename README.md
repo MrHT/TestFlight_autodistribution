@@ -24,6 +24,7 @@
 <table>
   <tr>
     <td align="center" width="35%"><b>客户下载页</b><br><img src="docs/screenshots/download-page.png" width="260"></td>
+    <td align="center" width="35%"><b>开发者管理</b><br><img src="docs/screenshots/account.png"></td>
     <td align="center"><b>下载链接</b><br><img src="docs/screenshots/download-links.png"></td>
   </tr>
   <tr>
